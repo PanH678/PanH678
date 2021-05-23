@@ -22,4 +22,4 @@ Buch Nr. 2: äü#+*
 
 :+1:  :sparkles: :tiger:
 
-<img src=https://openhpi.azureedge.net/assets/startpage/visual-52b04daa9e8ca96454d1f1a0f387cdc499055180c4f688c7f66c8c32b3d4287d.png>
+<img src=https://openhpi.azureedge.net/assets/startpage/visual-52b04daa9e8ca96454d1f1a0f387cdc499055180c4f688c7f66c8c32b3d4287d.png />
