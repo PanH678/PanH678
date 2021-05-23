@@ -16,7 +16,8 @@ Buch Nr. 2: äü#+*
 		
 ### ich sage:
 
-> hallo Zitat :+1:
-> hallo film :sparkles:
-> hallo tier :tiger:
+> hallo Zitat 
+> hallo film
+> hallo tier 
 
+:+1:  :sparkles: :tiger:
